@@ -6,7 +6,7 @@
  |_|  |____/_/ \_\|___/
   </pre>
 
-  <h3>🚀 <b>PLAS NUKER</b> 🚀</h3>
+  <h3><b>PLAS NUKER</b></h3>
   <p><i>The most advanced Discord Administration & Stress-Testing Suite</i></p>
 
   <p>
