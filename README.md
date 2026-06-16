@@ -20,6 +20,8 @@
 ## **Overview**
 **PLAS NUKER** is a world-class, multi-threaded tool built for system administration, server recovery, and extreme stress testing. Leveraging the power of `asyncio` and `aiohttp`, PLAS provides unparalleled speed and efficiency in managing large-scale Discord environments.
 
+**Free Trial**: Get your free 1 day trial once a week by using the `/claim` command in our [Discord server](https://discord.gg/twX4rRrhH4)!
+
 ## **Key Features**
 
 ### **Aggressive Management**
