@@ -11,8 +11,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/EXE-FILE-lightgrey?style=flat">
-    <img src="https://img.shields.io/badge/Discord.py-2.0+-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    <img src="https://img.shields.io/badge/License-Exclusive-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LICENSE-EXCLUSIVE-red?style=flat">
   </p>
 </div>
 
