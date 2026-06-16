@@ -10,7 +10,7 @@
   <p><i>The most advanced Discord Administration & Stress-Testing Suite</i></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/EXE-FILE-lightgrey?style=flat">
     <img src="https://img.shields.io/badge/Discord.py-2.0+-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/License-Exclusive-red?style=for-the-badge">
   </p>
